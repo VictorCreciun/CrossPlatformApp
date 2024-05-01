@@ -20,3 +20,4 @@
 ### For every push you make PLEASE USE LOGICAL COMMIT MESSAGES based on the code you wrote.
 
 ## For more detailed commands please read [git documentation](https://git-scm.com/doc).
+## Every change you make in the project, make it in Master Branch.
